@@ -1,12 +1,11 @@
 # Sales Analysis Dashboard report using Pivot Tables - Excel
-<br>
 
 ## Introduction
 
 Welcome to the Store Sales Data Analysis project! This repository contains an Excel-based data analysis project focused on understanding sales trends and patterns within a store's dataset. The project provides insights through data cleaning, visualization, and dashboard creation.
 
 The workbook consist of solutions to ABX store 2022 Data Analysis questions. The data file consisted of 1002 sales records and 18 columns. 3 columns were added that were required for analysis of the below questions. The answers to following questions are included in the Excel workbook:
-## Table of contents
+# Table of contents
   - [Introduction](#introduction)
   - [Tasks Completed](#tasks-completed)
   - [Usage](#usage)
@@ -18,11 +17,11 @@ The workbook consist of solutions to ABX store 2022 Data Analysis questions. The
   <li><b>Data Cleaning and Preparation:</b> Ensured dataset cleanliness by handling missing values and ensuring data consistency.</li><br>
   <li><b>Inserting Pivot Tables and Charts:</b>
     <ul>
-      <li>Sales by Category</li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Top 3 products</li>
+      <li>Average delivery time</li>
+      <li>revenue by month</li>
+      <li>Top  states</li>
+      <li>Average revenue</li>
     </ul>   
   </li>
   <li><b>Creating a Dashboard:</b> Designed a comprehensive dashboard aggregating key insights and visualizations.</li>
